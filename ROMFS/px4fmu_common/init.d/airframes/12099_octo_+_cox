@@ -1,8 +1,8 @@
 #!nsh
 #
-# @name Octorotor + cox
+# @name Octo + coaxial geometry
 # 
-# @type Octorotor +
+# @type Octorotor Coaxial
 # @class Copter
 #
 # @output MAIN1 motor 1
