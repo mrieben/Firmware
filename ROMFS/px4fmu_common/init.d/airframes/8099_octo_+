@@ -1,10 +1,10 @@
 #!nsh
 #
-# @name Octorotor + Tailsitter wide
-# @desc Otco-rotor VTOL using mc controls in all operation modes. Wide Tailsitter with coaxial + configuration.
+# @name Octorotor + generic
+# @desc Otco-rotor + coaxial configuration.
 #
-# @type VTOL Octo + Tailsitter
-# @class VTOL
+# @type Octorotor +
+# @class Copter
 #
 # @output MAIN1 motor 1
 # @output MAIN2 motor 2
@@ -20,11 +20,8 @@
 # @board px4fmu-v3 exclude
 #
 
-sh /etc/init.d/rc.vtol_defaults
+sh /etc/init.d/rc.mc_defaults
 
 set MIXER octo_+_cox
 
 set PWM_OUT 12345678
-# set PWM_MAX 2000
-# set PWM_RATE 400
-# set MAV_TYPE 24
