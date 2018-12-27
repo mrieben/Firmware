@@ -1,8 +1,7 @@
 #!nsh
 #
 # @name Octorotor + cox
-# @desc Otco-rotor + coaxial configuration.
-#
+# 
 # @type Octorotor +
 # @class Copter
 #

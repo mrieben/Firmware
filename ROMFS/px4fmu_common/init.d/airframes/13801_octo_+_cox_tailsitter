@@ -1,8 +1,7 @@
 #!nsh
 #
 # @name Octorotor + Tailsitter wide
-# @desc Otco-rotor VTOL using mc controls in all operation modes. Wide Tailsitter with coaxial + configuration.
-#
+# 
 # @type VTOL Octo + Tailsitter
 # @class VTOL
 #
