@@ -16,8 +16,6 @@
 #
 # @maintainer Marc Rieben <mrieben@gmail.com>
 #
-# @board px4fmu-v3 exclude
-#
 
 sh /etc/init.d/rc.mc_defaults
 
