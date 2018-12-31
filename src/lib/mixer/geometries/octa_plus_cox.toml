@@ -1,8 +1,8 @@
-# Generic Octacopter in + and coax configuration
+# Octacopter in + and coax configuration
 
 [info]
 key = "8+c"
-description = "GenericOctacopter in + and coax configuration"
+description = "Octacopter in + and coax configuration"
 
 [rotor_default]
 axis      = [0.0, 0.0, -1.0]

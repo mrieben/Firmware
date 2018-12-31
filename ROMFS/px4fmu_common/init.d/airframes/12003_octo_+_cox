@@ -22,3 +22,7 @@ sh /etc/init.d/rc.mc_defaults
 set MIXER octo_+_cox
 
 set PWM_OUT 12345678
+set PWM_MAX 1950
+set PWM_MIN 1075
+set BAT_V_DIV 10.17793941
+set BAT_V_CHARGED 4.20
