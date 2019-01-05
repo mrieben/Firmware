@@ -1,0 +1,47 @@
+# Octacopter in + coax wide configuration
+
+[info]
+key = "8+cw"
+description = "Octacopter in + coax wide config"
+
+[rotor_default]
+direction = "CCW"
+axis      = [0.0, 0.0, -1.0]
+Ct        = 1.0
+Cm        = 0.05
+
+[[rotors]]
+name      = "right_top"
+position  = [0.0, 0.6525, -0.0775]
+
+[[rotors]]
+name     = "front_top"
+position = [0.3775, 0.0, -0.0775]
+direction = "CW"
+
+[[rotors]]
+name      = "left_top"
+position  = [0.0, -0.6525, -0.0775]
+
+[[rotors]]
+name     = "rear_top"
+position = [-0.3775, 0.0, -0.0775]
+direction = "CW"
+
+[[rotors]]
+name     = "front_bottom"
+position = [0.3775, 0.0, 0.0775]
+
+[[rotors]]
+name      = "right_bottom"
+position  = [0.0, 0.6525, 0.0775]
+direction = "CW"
+
+[[rotors]]
+name     = "rear_bottom"
+position = [-0.3775, 0.0, 0.0775]
+
+[[rotors]]
+name      = "left_bottom"
+position  = [0.0, -0.6525, 0.0775]
+direction = "CW"
