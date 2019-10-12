@@ -52,10 +52,6 @@ px4_add_romfs_files(
 	3032_skywalker_x5
 	3033_wingwing
 	3034_fx79
-	3035_viper
-	3036_pigeon
-	3037_parrot_disco_mod
-	3100_tbs_caipirinha
 
 	# [4000, 4999] Quadrotor x"
 	4001_quad_x
@@ -63,8 +59,6 @@ px4_add_romfs_files(
 	4003_qavr5
 	4004_H4_680mm
 	4009_qav250
-	4010_dji_f330
-	4011_dji_f450
 	4012_quad_x_can
 	4013_bebop
 	4014_s500
@@ -126,7 +120,8 @@ px4_add_romfs_files(
 	13010_claire
 	13012_convergence
 	13013_deltaquad
-	13801_octo_+_cox_tailsitter
+	13801_octo+cox_tailsitter
+	13802_skeye_vtol
 
 	# [14000, 14999] Tri Y
 	14001_tri_y_yaw+

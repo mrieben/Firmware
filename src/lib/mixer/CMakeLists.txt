@@ -32,8 +32,6 @@
 ############################################################################
 
 set(geometry_files
-	dodeca_bottom_cox.toml
-	dodeca_top_cox.toml
 	hex_cox.toml
 	hex_plus.toml
 	hex_t.toml
@@ -53,8 +51,6 @@ set(geometry_files
 	quad_x.toml
 	quad_x_pusher.toml
 	quad_y.toml
-	tri_y.toml
-	twin_engine.toml
 )
 
 set(geometries_list)

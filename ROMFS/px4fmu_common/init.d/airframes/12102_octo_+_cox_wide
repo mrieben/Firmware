@@ -26,5 +26,9 @@ set PWM_OUT 12345678
 param set PWM_MAX 1950
 param set PWM_MIN 1075
 
-param set BAT_V_DIV 10.17793941
+param set BAT_N_CELLS 4
+param set BAT_V_DIV 12.10917568
 param set BAT_V_CHARGED 4.20
+
+param set CBRK_IO_SAFETY 22027
+param set TEL_FRSKY_CONFIG 102
