@@ -128,12 +128,8 @@ px4_add_romfs_files(
 	13010_claire
 	13012_convergence
 	13013_deltaquad
-<<<<<<< HEAD
-	13200_generic_vtol_tailsitter
-=======
 	13801_octo+cox_tailsitter
 	13802_skeye_vtol
->>>>>>> skeye1.0.1
 
 	# [14000, 14999] Tri Y
 	14001_tri_y_yaw+
